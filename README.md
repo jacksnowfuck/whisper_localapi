@@ -1,0 +1,2 @@
+# whisper_localapi
+whisper本地离线模型以openai的api模式侦听，含客户端实时录音转文字
